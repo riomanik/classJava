@@ -123,11 +123,9 @@ public static void main(String[] args) {
 
 it will show
 
-|================================
 | Assassin
 |--------------------------------
 | Name : Saber
 | color : red
 | damaged : 700
 | position : Mid Laner
-|--------------------------------
