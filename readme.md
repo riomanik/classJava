@@ -55,16 +55,14 @@ public class Heroes {
 
 ```
 
-    Let see the result
-
-    |       Assassin
+    | Assassin
     |--------------------------------
     | Name 		 : Saber
     | color 	 : red
     | damaged 	 : 500
     | position 	 : Top Laner
 
-    |       Assassin
+    | Assassin
     |--------------------------------
     | Name 		 : Hanzo
     | color 	 : red
