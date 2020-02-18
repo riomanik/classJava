@@ -55,8 +55,6 @@ public class Heroes {
 
 ```
 
-### https://aditya-sridhar.github.io/simple-reactjs-app
-
     Let see the result
 
 ```bash
