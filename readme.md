@@ -57,24 +57,19 @@ public class Heroes {
 
     Let see the result
 
-```bash
-    |================================
     |       Assassin
     |--------------------------------
     | Name 		 : Saber
     | color 	 : red
     | damaged 	 : 500
     | position 	 : Top Laner
-    |--------------------------------
-    |================================
+
     |       Assassin
     |--------------------------------
     | Name 		 : Hanzo
     | color 	 : red
     | damaged 	 : 600
     | position 	 : Top Laner
-    |--------------------------------
-```
 
 ## Look at this line code
 
