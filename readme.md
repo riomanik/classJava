@@ -89,7 +89,7 @@ public class Heroes {
 
 it create some heroes name Saber , damaged 500 and position in Top Laner
 
-## Live Application URL
+## Task
 
 Now you must create another Assassin but you must create a method into a class and you now have 2 class ,,
 
@@ -114,6 +114,23 @@ it will show
 | damaged : 700
 | position : Mid Laner
 |--------------------------------
+
+````
+
+You will need this line of code
+```bash
+@Override
+	public String toString() {
+		return "|================================ \n"
+				+ "|       Assassin \t\t \n"
+				+ "|-------------------------------- \n"
+				+ "| Name \t\t : " + name + " \n"
+				+ "| color \t : " + color + " \n"
+				+ "| damaged \t : " + damaged + " \n"
+				+ "| position \t : " + position + "\n"
+				+ "|--------------------------------";
+	}
+````
 
 ```
 
